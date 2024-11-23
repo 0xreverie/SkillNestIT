@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Elan Pratama",
+      "telp": "09996666",
+      "email": "elan@gmail.com",
+      "password": "password",
+      "role": "student"
+    },
+    {
+      "name": "Enigma",
+      "telp": "625125437123",
+      "email": "enigma@gmail.com",
+      "password": "password",
+      "role": "company",
+      "id": "2"
+    },
+    {
+      "id": "0792",
+      "name": "Agni Nafitri",
+      "email": "agni@gmail.com",
+      "password": "Agnii_09",
+      "role": "student",
+      "telp": "08535350"
+    }
+  ],
+  "projects": [
+    {
+      "idcompany": "2",
+      "name": "Vegan Food Shop",
+      "companyname": "Enigma",
+      "description": "You must create a website that will mainly provide information. The goal is to make it clear what the company does. Besides the landing page, the website will need a contact page, shop page and a blog. The landing page should have a About the Team section. There should be a call to action to get users to make a purchase. They would prefer a luxurious design, and would like you to use the brand color, which is yellow. Take into account the client's preferences and values.\n\n\nDeadline : 6 days",
+      "id": "529b"
+    },
+    {
+      "id": "c30d",
+      "idcompany": "2",
+      "companyname": "Enigma",
+      "name": "Violet Gig - Clothing Store",
+      "description": "Job Description:\nYou must create a website that will mainly sell the company's products. The goal is to make a landing page that maximizes conversions. Besides the landing page, the website will need a information page, shop page and a privacy policy page. The landing page should have a Our Values section. There should be a call to action to get users to view the catalogue. They would prefer a luxurious design, and would like you to use the brand color, which is blue. Take into account the client's preferences and values.\n\nDeadline:\n9 days"
+    },
+    {
+      "id": "ff10",
+      "idcompany": "2",
+      "companyname": "Enigma",
+      "name": "Advanced Frontier Global",
+      "description": "You must create a logo using the information given in this brief. They would prefer a combination mark that uses the color red. The logo will be used on the company website. Take into account the company's values and preferences, and make sure it will work for the planned use-cases."
+    },
+    {
+      "id": "4ace",
+      "idcompany": "2",
+      "companyname": "Enigma",
+      "name": "Create web",
+      "description": "You must create a website that will mainly provide customer support for the company. The goal is to increase sales. Besides the landing page, the website will need a contact page, shop page and a terms of service page."
+    },
+    {
+      "id": "d5ee",
+      "idcompany": "2",
+      "companyname": "Enigma",
+      "name": "create the total branding package",
+      "description": "You must create the total branding package. This includes creating an appropriate brand name, a consistent visual system, and of course a great logo."
+    },
+    {
+      "id": "8327",
+      "idcompany": "2",
+      "companyname": "Enigma",
+      "name": "create five illustrations",
+      "description": "You must create five illustrations for a new ad campaign that show the company's team. They would prefer a more abstract art style, and would like you to use the brand color, which is red. Take into account the client's preferences and values."
+    },
+    {
+      "id": "cf5d",
+      "idcompany": "2",
+      "companyname": "Enigma",
+      "name": "create packaging",
+      "description": "You must create packaging for the company's main product. They want you to match the look of their competitors, and make sure you make the title stand out. They would prefer a extravagant design, and would like you to use the brand color, which is grey."
+    }
+  ],
+  "projectDetails": [
+    {
+      "id": "pd115",
+      "idproject": "529b",
+      "projectname": "Vegan Food Shop",
+      "idcompany": "2",
+      "companyname": "enigma",
+      "idstudent": "1",
+      "studentname": "elan pratama",
+      "link": "vegan-food.com",
+      "status": "Done",
+      "feedback": "perbaiki UI",
+      "date": "2024-11-17"
+    },
+    {
+      "id": "pd8067",
+      "idproject": "c30d",
+      "projectname": "Violet Gig - Clothing Store",
+      "idcompany": "2",
+      "companyname": "enigma",
+      "idstudent": "1",
+      "studentname": "elan pratama",
+      "link": "http://violet-gig.xyz",
+      "status": "Done",
+      "feedback": "good",
+      "date": "2024-11-18"
+    },
+    {
+      "id": "pd9170",
+      "idproject": "c30d",
+      "projectname": "Violet Gig - Clothing Store",
+      "idcompany": "2",
+      "companyname": "enigma",
+      "idstudent": "0792",
+      "studentname": "Agni Nafitri",
+      "link": "github.com/agni/violet-gig",
+      "status": "Waiting to review",
+      "feedback": "",
+      "date": "2024-11-18"
+    },
+    {
+      "id": "pd8243",
+      "idproject": "529b",
+      "projectname": "Vegan Food Shop",
+      "idcompany": "2",
+      "companyname": "Enigma",
+      "idstudent": "0792",
+      "studentname": "Agni Nafitri",
+      "link": "github.coom/vegan-food",
+      "status": "Waiting to review",
+      "feedback": "",
+      "date": "2024-11-19"
+    }
+  ]
+}
